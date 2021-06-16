@@ -1,0 +1,49 @@
+$fondo: rgb(49, 50, 61);
+$gris:rgb(39, 40, 54);
+$blanco:white;
+
+body{
+    background-color:$fondo;
+}
+.inicio_carousel--background{
+    background-color: $gris;
+}
+.inicio_titulo--color{
+    color: $blanco;
+}
+.inicio_secciones--color{
+    color: $blanco;
+}
+.inicio_secciones--background{
+    background-color: $gris;
+}
+.nosotros__titulo--background{
+    background-color:$gris;
+}
+.nosotros__secciones--background{
+    background-color:$gris;
+}
+.nosotros__titulo--color{
+    color:$blanco;
+}
+.nosotros__secciones--color{
+    color:$blanco;
+}
+.profesionales_tabla--background{
+    background-color: $gris;
+}
+.profesionales_titulo--color{
+    color: $blanco;
+}
+.contacto_form--background{
+    background-color: $gris;
+}
+.contacto_form--color{
+    color: $blanco;
+}
+.ubicacion_mapa--background{
+    background-color: $gris;
+}
+.ubicacion_titulo--color{
+    color: $blanco;
+}

@@ -1,0 +1,65 @@
+body {
+  background-color: #31323d; }
+
+.inicio_carousel--background {
+  background-color: #272836; }
+
+.inicio_titulo--color {
+  color: white; }
+
+.inicio_secciones--color {
+  color: white; }
+
+.inicio_secciones--background {
+  background-color: #272836; }
+
+.nosotros__titulo--background {
+  background-color: #272836; }
+
+.nosotros__secciones--background {
+  background-color: #272836; }
+
+.nosotros__titulo--color {
+  color: white; }
+
+.nosotros__secciones--color {
+  color: white; }
+
+.profesionales_tabla--background {
+  background-color: #272836; }
+
+.profesionales_titulo--color {
+  color: white; }
+
+.contacto_form--background {
+  background-color: #272836; }
+
+.contacto_form--color {
+  color: white; }
+
+.ubicacion_mapa--background {
+  background-color: #272836; }
+
+.ubicacion_titulo--color {
+  color: white; }
+
+@media only screen and (max-width: 768px) {
+  .mobile .container {
+    width: 100%; } }
+
+@media only screen and (max-width: 980px) {
+  .tablet .container {
+    width: 100%; } }
+
+@media only screen and (max-width: 1080px) {
+  .desktop .container {
+    width: 100%; } }
+
+h1 {
+  font-size: 10px; }
+  @media only screen and (min-width: 768px) {
+    h1 {
+      font-size: 12px; } }
+  @media only screen and (min-width: 1280px) {
+    h1 {
+      font-size: 20px; } }
